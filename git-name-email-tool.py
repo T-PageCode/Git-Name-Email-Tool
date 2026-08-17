@@ -1,5 +1,5 @@
 # --- © 2026 T-PageCode, Dev. ---
-# Your Nocan Delete LICENSE
+# Your Canno Delete LICENSE
 import os
 print("Git Name Email工具 v1.0.0")
 print("我们不收集任何数据,纯个人自制程序")
@@ -13,7 +13,7 @@ email = input(">>>")
 if "@" not in email:
     print("警告:邮箱格式看起来不太对(缺少 @)，请确认是否输入正确!")
 else:
-    print(f"成功:用户名是{email}")
+    print(f"成功:邮箱是{email}")
 print("请输入您要配置的路径")
 path = input(">>>")
 if not os.path.exists(path):
