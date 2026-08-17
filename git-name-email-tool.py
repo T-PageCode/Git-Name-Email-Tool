@@ -1,7 +1,7 @@
 # --- © 2026 T-PageCode, Dev. ---
 # Your Canno Delete LICENSE
 import os
-print("Git Name Email工具 v1.0.0")
+print("Git Name Email工具 v1.0.1")
 print("我们不收集任何数据,纯个人自制程序")
 print("警告:输入错误可能会导致Git提交失败!如果输错了,请重新运行此程序并输入正确的信息!")
 print("-------------------------------------------------------------------------------")
